@@ -1,5 +1,6 @@
 🚀 SMARTCART
 Customer Segmentation & Classification using Machine Learning
+
 📌 Overview
 
 SmartCart is a Machine Learning project focused on customer behavior analysis using clustering and classification techniques.
